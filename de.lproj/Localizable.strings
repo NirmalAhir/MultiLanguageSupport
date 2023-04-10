@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  multiLangSupportDemo
+
+  Created by Nirmal ahir on 06/02/23.
+  
+*/
+//In Localizable(German) file
+
+"title" = "Rette Bäume";
+"info" = "Mutter Erde hat uns viele Geschenke gemacht. Einer davon sind Bäume. Bäume sind uns sehr wichtig. Viele unserer Stämme leben in Wäldern mit Bäumen. Bäume liefern uns Holz für die Herstellung von Möbeln. Wilde Tiere sind auf Bäume als Nahrung und Unterschlupf angewiesen. Bäume helfen, Bodenerosion und Überschwemmungen zu verhindern. Sie geben Sauerstoff ab und machen die Erde sauber und kühl. Viele Produkte wie Papier, Gummi, Gummi usw. werden aus Bäumen gewonnen. Bäume reduzieren die Umweltverschmutzung und erhöhen den Regen. Vögel bauen ihre Nester auf Bäumen. Also Freunde, RETTET BÄUME, indem ihr sie nicht schneidet und macht sie glücklich.";
+
+
+/* Class = "UILabel"; text = "Donald J. Trump"; */
+"DMR-rh-pcN.text" = "Donald J. Trumpf";
+
+/* Class = "UILabel"; text = "Monetary unit"; */
+"qIt-iK-765.text" = "Geldeinheit";
+
+/* Class = "UILabel"; text = "Vice President"; */
+"wXA-N0-WTU.text" = "Vizepräsident";
+
+/* Class = "UILabel"; text = "Michael Pence"; */
+"YHp-9O-1pd.text" = "Michael Penz";
+
+/* Class = "UILabel"; text = "President"; */
+"UZw-PA-Pjd.text" = "Präsident";
+
+/* Class = "UILabel"; text = "318,892,103 (growth rate: 0.77%); birth rate: 13.42/1000; infant mortality rate: 6.17/1000; life expectancy: 79.56; density per sq mi: 88.6"; */
+"51v-eS-Vp6.text" = "318.892.103 (Wachstumsrate: 0,77 %); Geburtenrate: 13,42/1000; Säuglingssterblichkeitsrate: 6,17/1000; Lebenserwartung: 79,56; Dichte pro Quadratmeile: 88,6";
+
+/* Class = "UILabel"; text = "Dollar ($)"; */
+"ATz-Rv-tml.text" = "Dollar ($)";
+
+/* Class = "UILabel"; text = "Population (2014 est.)"; */
+"jAC-8s-sgY.text" = "Bevölkerung (2014 geschätzt)";
+
+/* Class = "UILabel"; text = "Land Area"; */
+"33k-FK-3mB.text" = "Landfläche";
+
+/* Class = "UILabel"; text = "3,539,225 sq mi (9,166,601 sq km)"; */
+"Gdj-5D-aoj.text" = "3.539.225 Quadratmeilen (9.166.601 Quadratkilometer)";

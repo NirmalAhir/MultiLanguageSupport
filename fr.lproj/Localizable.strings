@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  multiLangSupportDemo
+
+  Created by Nirmal ahir on 06/02/23.
+  
+*/
+//In Localizable(French) file
+
+"title" = "Sauver des arbres";
+"info" = "Mère Terre nous a fait de nombreux cadeaux. L'un d'eux est les arbres. Les arbres sont très importants pour nous. Beaucoup de nos tribus vivent à l'intérieur de forêts qui ont des arbres. Les arbres nous fournissent du bois pour fabriquer des meubles. Les animaux sauvages dépendent des arbres pour se nourrir et s'abriter. Les arbres aident à prévenir l'érosion des sols et les inondations. Ils donnent de l'oxygène et rendent la Terre propre et fraîche. De nombreux produits tels que le papier, la gomme, le caoutchouc, etc. sont obtenus à partir d'arbres. Les arbres réduisent la pollution et augmentent la pluie. Les oiseaux font leurs nids sur les arbres. Alors les amis, SAUVEZ LES ARBRES en ne les coupant pas et rendez-les heureux.";
+
+/* Class = "UILabel"; text = "Donald J. Trump"; */
+"DMR-rh-pcN.text" = "Donald J.Trump";
+
+/* Class = "UILabel"; text = "Monetary unit"; */
+"qIt-iK-765.text" = "Unité monétaire";
+
+/* Class = "UILabel"; text = "Vice President"; */
+"wXA-N0-WTU.text" = "vice-président";
+
+/* Class = "UILabel"; text = "Michael Pence"; */
+"YHp-9O-1pd.text" = "Michel Pence";
+
+/* Class = "UILabel"; text = "President"; */
+"UZw-PA-Pjd.text" = "Président";
+
+/* Class = "UILabel"; text = "318,892,103 (growth rate: 0.77%); birth rate: 13.42/1000; infant mortality rate: 6.17/1000; life expectancy: 79.56; density per sq mi: 88.6"; */
+"51v-eS-Vp6.text" = "318 892 103 (taux de croissance : 0,77 %) ; taux de natalité : 13,42/1000 ; taux de mortalité infantile : 6,17/1000 ; espérance de vie : 79,56 ; densité par mille carré : 88,6";
+
+/* Class = "UILabel"; text = "Dollar ($)"; */
+"ATz-Rv-tml.text" = "Dollars ($)";
+
+/* Class = "UILabel"; text = "Population (2014 est.)"; */
+"jAC-8s-sgY.text" = "Population (estimation 2014)";
+
+/* Class = "UILabel"; text = "Land Area"; */
+"33k-FK-3mB.text" = "Aire d'atterrissage";
+
+/* Class = "UILabel"; text = "3,539,225 sq mi (9,166,601 sq km)"; */
+"Gdj-5D-aoj.text" = "3 539 225 milles carrés (9 166 601 km carrés)";
+
